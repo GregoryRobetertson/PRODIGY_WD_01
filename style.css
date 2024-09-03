@@ -93,6 +93,9 @@ body {
     border: none;
     cursor: pointer;
 }
+.hero button:hover{
+background-color: #333;
+}
 
 .features {
     padding: 50px;
